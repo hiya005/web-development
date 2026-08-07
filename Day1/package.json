@@ -1,0 +1,13 @@
+{
+  "name": "myapp",
+  "version": "1.0.0",
+  "description": "Building my app",
+  "license": "ISC",
+  "author": "Hiya",
+  "type": "commonjs",
+  "main": "app.js",
+  "scripts": {
+    "dev": "nodemon app.js",
+    "test": "echo \\\"Error: no test specified\\\" && edit 1"
+  }
+}
