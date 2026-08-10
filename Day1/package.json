@@ -8,6 +8,6 @@
   "main": "app.js",
   "scripts": {
     "dev": "nodemon app.js",
-    "test": "echo \\\"Error: no test specified\\\" && edit 1"
+    "test": "echo \\\"Error: no test specified\\\" && edit 1 "
   }
 }
